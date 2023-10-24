@@ -1,0 +1,4 @@
+Write a C program that takes an array of integers as input and
+ sorts the values in descending order. You should use a separate
+ function for this sorting operation. Please provide the complete
+ code for the program, including the function to perform the sorting. 

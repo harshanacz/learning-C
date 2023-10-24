@@ -1,0 +1,2 @@
+ Write a C program to find the average of array elements.
+ Use a separate function
